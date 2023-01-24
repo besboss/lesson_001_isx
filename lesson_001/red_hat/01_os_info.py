@@ -2,8 +2,6 @@
 
 # Нужно собрать инфу об ОС
 
-# добавил эту строку
-
 import platform
 import sys
 
